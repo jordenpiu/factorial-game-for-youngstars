@@ -25,4 +25,4 @@ if  __name__ == '__main__':
         n = show_the_num()
         m = mult()
         compare(n,m)
-        ask()
+        
